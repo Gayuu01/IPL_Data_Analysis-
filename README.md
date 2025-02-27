@@ -1,29 +1,6 @@
+# IPL MACHTES DATA ANALYSIS
 ## Intro to Dashboard:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot 2025-02-27 094224](https://github.com/user-attachments/assets/5a2b27cf-58bb-4d0f-bbce-98285bd8c95d)
 ## STEPS IN PROJECT:
 1. Requirement Gathering
 2. Stakeholders in Project
