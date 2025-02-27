@@ -1,4 +1,4 @@
-# IPL MACHTES DATA ANALYSIS
+# IPL MATCHES DATA ANALYSIS
 ## DATASET:
 - <a href="https://drive.google.com/file/d/1COTiDculZt8BN3ORVkeekU3WGkdJKksN/view?usp=sharing"> Dataset and Images
 
