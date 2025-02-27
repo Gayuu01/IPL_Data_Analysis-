@@ -1,3 +1,29 @@
+## Intro to Dashboard:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## STEPS IN PROJECT:
 1. Requirement Gathering
 2. Stakeholders in Project
@@ -44,6 +70,29 @@ To extarct meaningful insights from IPL match data to understand trends, team, p
 9. Creating different shapes and formatting
 10. Generating insights from charts
 11. Export report
+
+## INSIGHTS:-
+1. Winning Trends & Team Performance
+- Some teams have a consistently higher win percentage across seasons.
+- Home teams often have a slight advantage, but some teams perform equally well in away matches.
+- Certain teams dominate head-to-head matchups (e.g., MI vs. KKR, CSK vs. RCB).
+
+2. Toss & Match Outcome
+- Winning the toss does not always guarantee a win, but some teams prefer batting or bowling first based on past success.
+- In some stadiums, teams chasing a target win more often than teams setting a target.
+
+3. Batsman & Bowler Performance
+- Some batsmen perform exceptionally well in pressure situations (death overs).
+- Certain players have a strong record against specific bowlers or teams.
+- Spinners tend to be more effective in slower pitches (like Chennai or Delhi).
+
+4. High-Scoring & Low-Scoring Venues
+- Stadiums like Wankhede and Chinnaswamy often have high-scoring matches.
+- Some venues favor bowlers due to pitch conditions, leading to lower average scores.
+
+5. Man of the Match Patterns
+- Players scoring 50+ runs or taking 3+ wickets are more likely to win the Man of the Match award.
+- All-rounders often have a higher chance of winning these awards.
 
 
 
